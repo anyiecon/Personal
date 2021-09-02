@@ -29,3 +29,11 @@ img{
     border-radius: 15px;
     background: linear-gradient(white 50%, blue 0%);
 }
+.trece, .catorce, .unot{
+    width: 60px;
+    height: 60px;
+    
+}
+.trece{
+    margin-left: 33%;
+}
