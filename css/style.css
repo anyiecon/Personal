@@ -25,15 +25,29 @@ img{
     padding: 20px;
     color: rgb(0, 0, 0);
     text-align: center;
-    box-shadow: 0 0 20px rgba(63, 30, 253, 0.4);
+    box-shadow: 0 0 20px rgb(255, 255, 255);
     border-radius: 15px;
     background: linear-gradient(white 50%, blue 0%);
 }
 .trece, .catorce, .unot{
     width: 60px;
     height: 60px;
+    background-color: red;
     
 }
 .trece{
-    margin-left: 33%;
+    margin-left: 25%;
+}
+
+
+.hijo{
+    background-color: rgb(216, 187, 187);
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 1em;
+    margin-bottom: 30%;
+    box-shadow: 0 0 20px rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(0, 0, 0);
 }
