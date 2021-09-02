@@ -3,10 +3,13 @@ h1{
     text-align: center;
 }
 
-
-.ocho{
-    margin-left: 32%;
-}
 body{
     background: linear-gradient(white 60%, blue 0%);
+}
+img{
+    margin-top: 40px;
+    margin-left: 40%;
+    border-radius: 50%;
+    width: 300px;
+    height: 400px;
 }
