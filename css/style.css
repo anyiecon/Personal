@@ -26,7 +26,7 @@ img{
     color: rgb(0, 0, 0);
     text-align: center;
     box-shadow: 0 0 20px rgb(255, 255, 255);
-    border-radius: 15px;
+    
     background: linear-gradient(white 50%, blue 0%);
 }
 .trece, .catorce, .unot{
@@ -41,10 +41,10 @@ img{
 
 
 .hijo{
-    background-color: rgb(216, 187, 187);
-    margin-left: 30%;
-    margin-right: 30%;
-    border-radius: 1em;
+    background-color:blue;
+    margin-left: 35.7%;
+    margin-right: 35.7%;
+    
     margin-bottom: 30%;
     box-shadow: 0 0 20px rgb(255, 255, 255);
 }
